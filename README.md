@@ -1,3 +1,3 @@
-Build with basic HTML Platform
+Build with Bootstrap framework Platform
 
 Deploy on tiiny.host
