@@ -1,3 +1,3 @@
-Build with Bootstrap framework Platform
+Build with Bootstrap framework 
 
-Deploy on tiiny.host
+Deploy on Vercel
